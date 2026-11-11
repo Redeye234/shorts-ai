@@ -1,0 +1,8 @@
+fastapi>=0.115,<1
+uvicorn>=0.30,<1
+httpx>=0.27,<1
+Pillow>=10,<13
+pydantic>=2,<3
+pytest>=8,<10
+# Optional online Hindi voice (requires network):
+edge-tts>=6.1,<9
